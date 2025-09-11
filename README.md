@@ -25,8 +25,7 @@ app/
 │   └── pdf.py         # File handling utilities
 ├── __init__.py         # Package initialization
 ├── main.py             # Application entry point
-├── models.py           # Data models
-└── help.md            # Usage documentation
+└── models.py           # Data models
 ```
 
 ### Client Applications (`clients/`)
