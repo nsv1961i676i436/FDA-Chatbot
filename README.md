@@ -32,7 +32,7 @@ app/
 ### Client Applications (`clients/`)
 ```
 clients/
-└── pdf_chatbot_Submission.py    # Streamlit web interface for PDF chat
+└── pdf_chatbot.py    # Streamlit web interface for PDF chat
 ```
 
 ### Data Directory (`Datasets/`)
