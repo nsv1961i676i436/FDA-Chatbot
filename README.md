@@ -22,7 +22,7 @@ app/
 ├── services/             # Business logic services
 │   └── similarity.py     # Similarity computation service
 ├── utils/               # Utility functions
-│   └── file.py         # File handling utilities
+│   └── pdf.py         # File handling utilities
 ├── __init__.py         # Package initialization
 ├── main.py             # Application entry point
 ├── models.py           # Data models
